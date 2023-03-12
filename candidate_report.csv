@@ -1,0 +1,2 @@
+,_id,first_name,last_name,email,UUID,career_level,job_major,years_of_experience,degree_type,skills,nationality,city,salary,gender,user_id
+0,640d94481e66c482be2d019c,John,Smith,john.smith@example.com,$2b$12$261zf5KD6HkbFMA1W8IKXuZ5KDMmSNqdVcPP/0wo.wHfdBelT/.sm,Mid level,Computer Science,5,Master's degree,java,Canadian,Toronto,80000,Male,640d92e31e66c482be2d019b
