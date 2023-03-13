@@ -77,6 +77,15 @@ $ uvicorn app.main:app --reload
 - **DELETE /candidate/{id}:** Delete a single candidate by ID.
 - **GET /all-candidates:** Get all candidates.
 - **GET /generate-report:** Generate a CSV report of all candidates.
+
+## To run this on docker
+You should have docker installed in your system
+``` bash
+docker-compose build
+docker-compose up -d
+```
+
+
 ## Authors
 
 - Brandon Harrelson - [@Nodnarb1192](https://github.com/Nodnarb1192)
